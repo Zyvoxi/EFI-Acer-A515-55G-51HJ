@@ -438,9 +438,9 @@
                     <key>AAPL,GfxYTile</key>
                     <data>AQAAAA==</data>
                     <key>AAPL,ig-platform-id</key>
-                    <data>AQBRig==</data>
+                    <data>AQBcig==</data>
                     <key>device-id</key>
-                    <data>UYoAAA==</data>
+                    <data>XIoAAA==</data>
                     <key>enable-cdclk-frequency-fix</key>
                     <data>AQAAAA==</data>
                     <key>enable-cfl-backlight-fix</key>
@@ -675,24 +675,6 @@
                     <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/HibernationFixup</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>RealtekRTL8111.kext</string>
-                    <key>Comment</key>
-                    <string>V2.4.2</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/RealtekRTL8111</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -988,6 +970,24 @@
                     <key>PlistPath</key>
                     <string>Contents/Info.plist</string>
                 </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
+                    <string>XHCI-unsupported.kext</string>
+                    <key>Comment</key>
+                    <string>V0.8 | XHCI-unsupported.kext</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>ExecutablePath</key>
+                    <string></string>
+                    <key>MaxKernel</key>
+                    <string></string>
+                    <key>MinKernel</key>
+                    <string></string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
             </array>
             <key>Block</key>
             <array/>
@@ -1268,23 +1268,23 @@
                 <key>AdviseFeatures</key>
                 <true/>
                 <key>MLB</key>
-                <string>FVF029902J900001F</string>
+                <string>C020461014NP8PGA8</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>1537</integer>
                 <key>ROM</key>
-                <data>EDDoe4rQ</data>
+                <data>w35YqIin</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
                 <string>Upgradable</string>
                 <key>SystemProductName</key>
-                <string>MacBookAir9,1</string>
+                <string>MacBookPro16,2</string>
                 <key>SystemSerialNumber</key>
-                <string>FVFD3PYFMNHP</string>
+                <string>C02DP7ZLML7H</string>
                 <key>SystemUUID</key>
-                <string>73D3DB7C-321E-4F4C-8E0F-64A82D7E961D</string>
+                <string>0702C1D6-BAFD-4637-980E-8E7A62988D92</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
